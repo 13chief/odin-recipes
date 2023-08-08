@@ -1,5 +1,7 @@
-# odin-recipes
+# Recipes Project 
 On this "Recipes" projects, we will set up a recipes website with basic HTML/CSS usage. This project is within the curriculum of the Odin Project and cruicial in testing what I have learned so far. 
+
+## Starting point. Once savvy, will return and create a fire out of this.
 
 ## Assignment
 ### Iteration 1: initial structure
@@ -29,5 +31,4 @@ Your new recipe page should have the following content:
 ### Iteration 4: add more recipes
 
     Add two more recipes with identical page structures to the recipe page you’ve already created.
-    Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
-
+    Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.      
